@@ -54,7 +54,6 @@ function quizData() {
                         const que3 = document.getElementById("que3");
                         const que4 = document.getElementById("que4");
                         const que5 = document.getElementById("que5");
-
                         
                         function optFn(elem1, elem2){
                             if(elem1.checked === true){
